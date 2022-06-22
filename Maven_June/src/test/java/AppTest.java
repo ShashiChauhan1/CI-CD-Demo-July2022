@@ -21,7 +21,7 @@ public class AppTest {
     @Test
     public void test4()
     {
-        System.out.println("test2 added at 16.42");
+        System.out.println("test2 added at 18.07");
     }
 
 }
