@@ -18,4 +18,10 @@ public class AppTest {
     {
         System.out.println("test2 added at 15.40");
     }
+    @Test
+    public void test4()
+    {
+        System.out.println("test2 added at 16.42");
+    }
+
 }
