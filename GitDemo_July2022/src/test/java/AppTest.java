@@ -20,11 +20,6 @@ public class AppTest {
         System.out.println("Test 3");
     }
 
-    @Test
-    public void test4()
-    {
-        System.out.println("Test 4");
-    }
 
 
 }
