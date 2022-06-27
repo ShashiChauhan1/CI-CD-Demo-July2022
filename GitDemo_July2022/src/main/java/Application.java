@@ -4,6 +4,6 @@ public class Application {
 
         System.out.println("Git is starting");
 
-        System.out.println("Git is testing");
+        System.out.println("Git is testing....");
     }
 }
